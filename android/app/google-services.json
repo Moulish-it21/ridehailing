@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "147842427178",
+    "project_id": "role-308e9",
+    "storage_bucket": "role-308e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147842427178:android:85c19d96055526c5e8d653",
+        "android_client_info": {
+          "package_name": "com.example.taxi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "147842427178-rdm6lcop9651v2nu87emf6t8qdq63tqa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.taxi",
+            "certificate_hash": "71d61ebcf058649c9e417e4456696e76cca3e78c"
+          }
+        },
+        {
+          "client_id": "147842427178-tse5i60i3v7v1eu7jb389vka5bgql61a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.taxi",
+            "certificate_hash": "f545e16c1e89b46a78faf016d8b27c2a1ec9200c"
+          }
+        },
+        {
+          "client_id": "147842427178-9tn0jcru29rfo9r682880pboagk78smh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgcIgJWDKR_mAYAxIGLZzNDLhuGbxMY_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "147842427178-9tn0jcru29rfo9r682880pboagk78smh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "147842427178-64m3lmgqgtn4ccn6s9n2ug3ovrcqj202.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.taxi"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
